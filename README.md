@@ -20,6 +20,7 @@ The project leverages the Gaia star catalogues to build structured datasets and 
 Clone the repository and run:
 ```bash
 python gaia_oc_amd.py
+```
 
 ## Why It Matters
 This project illustrates how data science workflows — from ETL to feature engineering and deep learning — can be applied to scientific domains outside traditional business analytics, showcasing the versatility of machine learning.
